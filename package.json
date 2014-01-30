@@ -16,6 +16,6 @@
     "url": "https://github.com/morganherlocker/turf-world-merge/issues"
   },
   "dependencies": {
-    "turf": "0.0.107"
+    "turf": "0.0.109"
   }
 }

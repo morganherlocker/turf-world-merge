@@ -1,4 +1,5 @@
-var t = require('turf')
+var t = require('turf'),
+    fs = require('fs')
 
 // load countries
 t.load('./countries.geojson', function(err, countries){
